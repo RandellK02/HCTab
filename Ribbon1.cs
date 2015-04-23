@@ -14,10 +14,15 @@ namespace HCTab
 
         private void btnskypeNotify_Click(object sender, RibbonControlEventArgs e)
         {
-            GetUserForm form = new GetUserForm();
-            System.Windows.Forms.DialogResult result = form.ShowDialog();
+            using (GetUserForm form = new GetUserForm())
+            {
+                System.Windows.Forms.DialogResult result = form.ShowDialog();
 
-            form.Dispose();
+                if (result == System.Windows.Forms.DialogResult.OK)
+                {
+                    string user = form.User;
+                }
+            }
         }
     }
 }
