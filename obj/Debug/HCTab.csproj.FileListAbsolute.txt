@@ -1,0 +1,15 @@
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\HCTab.dll
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\HCTab.pdb
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\HCTab.dll.manifest
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\HCTab.vsto
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.xml
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.csprojResolveAssemblyReference.cache
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.Properties.Resources.resources
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.csproj.GenerateResource.Cache
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.dll
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.pdb
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.HCRibbon.resources
+C:\Users\Randell\Documents\GitHub\HCTab\HCTab\obj\Debug\HCTab.GetUserForm.resources
